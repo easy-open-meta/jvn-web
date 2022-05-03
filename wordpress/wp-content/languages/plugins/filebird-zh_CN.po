@@ -1,0 +1,699 @@
+# Translation of Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-14 09:55:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk)\n"
+
+#: includes/I18n.php:150
+msgid "Uploaded"
+msgstr "上传"
+
+#: includes/I18n.php:151
+msgid "Less than a min"
+msgstr "少于1分钟"
+
+#: includes/I18n.php:152
+msgid "Total size"
+msgstr "合计大小"
+
+#: includes/I18n.php:149
+msgid "Expand"
+msgstr "扩展"
+
+#: views/pages/settings/tab-import.php:94
+msgid "HappyFiles by Codeer"
+msgstr "HappyFiles by Codeer"
+
+#: includes/I18n.php:54
+msgid "Unsuccessfully moved"
+msgstr "移除不成功"
+
+#: includes/I18n.php:148
+msgid "Collapse"
+msgstr "Collapse"
+
+#: views/pages/settings/tab-import.php:103
+msgid "We found you have <strong>(%1$s)</strong> categories you created from <strong>HappyFiles</strong> plugin."
+msgstr "我们找到你 <strong>(%1$s)</strong> 匪类你的创建从 <strong>HappyFiles</strong> 插件."
+
+#: includes/I18n.php:146
+msgid "View details."
+msgstr "查看详情"
+
+#: includes/I18n.php:49
+msgid "Download"
+msgstr "下载"
+
+#: includes/I18n.php:50
+msgid "Download (Pro version)"
+msgstr "下载 (专业版)"
+
+#: includes/I18n.php:147
+msgid "Turn off for 7 days"
+msgstr "关闭7天"
+
+#: includes/I18n.php:144
+msgid "You're using a third party plugin, which is supported in FileBird PRO. Please upgrade to browse files faster and get more done."
+msgstr "你正在使用一个第三方插件，它支持FileBird Pro，请升级到浏览器文件快速，并且获取更多"
+
+#: includes/I18n.php:143
+msgid "Do more with FileBird PRO"
+msgstr "完成更多的FileBird Pro"
+
+#: includes/I18n.php:141
+msgid "Unlock new features"
+msgstr "解锁更多功能"
+
+#: includes/I18n.php:52
+msgid "Generating download link..."
+msgstr "生成下载链接..."
+
+#: includes/I18n.php:142
+msgid "To use FileBird folders with your current page builder/plugin, please upgrade to PRO version."
+msgstr "要将 FileBird 文件夹与您当前的页面构建器/插件一起使用，请升级到 PRO 版本。"
+
+#: includes/Classes/DocumentGallery.php:41
+msgid "This folder ID does not exist, please check again."
+msgstr "这个文件夹ID不存在，请再检查一边"
+
+#: includes/I18n.php:72
+msgid "Previous folder selected"
+msgstr "之前文件夹的选择"
+
+#: includes/Controller/Folder.php:522 includes/Controller/Folder.php:545
+msgid "A folder with this name already exists. Please choose another one."
+msgstr "已存在同名文件夹。请选择另一个。"
+
+#: includes/Classes/ACF/acf-field-filebird-v4.php:22
+#: includes/Classes/ACF/acf-field-filebird-v5.php:21
+msgid "FileBird Folder"
+msgstr "FileBird Folder"
+
+#: includes/Controller/Api.php:140 includes/Controller/Api.php:168
+msgid "folder_id is missing."
+msgstr "folder_id 缺少"
+
+#: includes/I18n.php:139
+msgid "Settings saved"
+msgstr "设置保存"
+
+#: includes/I18n.php:138
+msgid "Select a default startup folder:"
+msgstr "选择一个默认的开始文件夹"
+
+#: includes/I18n.php:133
+msgid "Please enter your Purchase Code."
+msgstr "请输入您的购买代码。"
+
+#: includes/I18n.php:134
+msgid "Please enter your Personal Access Token or get one."
+msgstr "请输入你的个人访问令牌或者获取一个"
+
+#: includes/I18n.php:140
+msgid "Failed to save settings. Please try again!"
+msgstr "设置失败，请再次尝试"
+
+#: includes/I18n.php:135
+msgid "Can not active your License, please try again."
+msgstr "无法激活你的授权，请再次尝试一次"
+
+#: includes/Controller/Api.php:179
+msgid "Required fields are missing."
+msgstr "必填字段缺少"
+
+#: includes/I18n.php:132
+msgid "Import failed. Please try again or <a href=\"https://ninjateam.org/support\" target=\"_blank\">contact our support</a>."
+msgstr "导入失败，请再次尝试或者 <a href=\"https://ninjateam.org/support\" target=\"_blank\">contact our support</a>."
+
+#: views/pages/settings/tab-tools.php:31
+msgid "Please see FileBird API for developers <a target=\"_blank\" href=\"https://ninjateam.gitbook.io/filebird/api\">here</a>."
+msgstr "请查阅 FileBird 开发者API <a target=\"_blank\" href=\"https://ninjateam.gitbook.io/filebird/api\">here</a>"
+
+#: views/pages/settings/tab-tools.php:10
+msgid "By running this action, all folders created in version 3.9 & earlier installs will be imported."
+msgstr "本操作将自动导入您在WordPress 3.9版本及之前创建的所有文件夹"
+
+#: includes/I18n.php:128
+msgid "Go To Media"
+msgstr "转到 媒体"
+
+#: includes/I18n.php:74
+msgid "Are you sure you want to delete this folder? Those files will be moved to <strong>Uncategorized</strong> folder."
+msgstr "您确定要删除本文件夹? 这些文件将会被移动到 <strong>未分类</strong> 文件夹."
+
+#: includes/I18n.php:65
+msgid "You are editing another folder! Please complete the task first!"
+msgstr "您正在编辑其他文件夹! 请先完成先前的编辑!"
+
+#: includes/Classes/Convert.php:368
+msgid "Successfully cleared."
+msgstr "清除成功"
+
+#: includes/Classes/Convert.php:352
+msgid "Successfully wiped."
+msgstr "擦除成功"
+
+#: includes/Controller/Folder.php:608
+msgid "Folder tree has been updated."
+msgstr "您的个人资料已更新。"
+
+#: includes/Controller/Folder.php:300
+msgid "Your request can't be processed."
+msgstr "无法处理您的请求"
+
+#: includes/Controller/Folder.php:124
+msgid "You're using the new FileBird 4. Please update database to view your folders correctly."
+msgstr "您正在使用 File Bird 4, 更新数据库以正确访问文件夹"
+
+#: includes/Controller/Folder.php:480
+msgid "Please choose folder"
+msgstr "请选择一个文件夹"
+
+#: includes/I18n.php:131
+msgid "Import now"
+msgstr "现在导入"
+
+#: includes/I18n.php:130
+msgid "You're using the new FileBird 4. Please import database to view your folders correctly."
+msgstr "您正在使用 File Bird 4, 导入数据库以正确访问文件夹"
+
+#: includes/Controller/Folder.php:120 includes/I18n.php:129
+msgid "FileBird 4 Update Required"
+msgstr "有新的FireBird4 更新可用"
+
+#: includes/Controller/Folder.php:130 views/pages/settings/tab-tools.php:9
+msgid "Update now"
+msgstr "现在更新"
+
+#: includes/I18n.php:127
+msgid "Congratulations. Successfully imported!"
+msgstr "恭喜!导入成功！"
+
+#: includes/I18n.php:126
+msgid "Success."
+msgstr "成功！"
+
+#: includes/I18n.php:91
+msgid "Skip & Deactivate"
+msgstr "跳过并停用"
+
+#: views/particle/folder_dropdown.php:2
+msgid "Choose folder: "
+msgstr "选择文件夹"
+
+#: views/pages/settings/tab-tools.php:29
+msgid "Generate"
+msgstr "生成"
+
+#: views/pages/settings/tab-import.php:82
+msgid "We found you have <strong>(%1$s)</strong> categories you created from <strong>WP Real Media Library</strong> plugin."
+msgstr "找到 <strong>(%1$s)</strong> 个来自 <strong>WP Real Media Library</strong> 插件的文件夹."
+
+#: views/pages/settings/tab-import.php:73
+msgid "WP Real Media Library by devowl.io GmbH"
+msgstr "WP Real Media Library by devowl.io GmbH"
+
+#: views/pages/settings/tab-import.php:61
+msgid "We found you have <strong>(%1$s)</strong> categories you created from <strong>WP Media folder</strong> plugin."
+msgstr "找到 <strong>(%1$s)</strong> 个来自 <strong>WP Media folder</strong> 插件创建的文件夹."
+
+#: views/pages/settings/tab-import.php:52
+msgid "WP Media folder by Joomunited"
+msgstr "WP Media folder by Joomunited"
+
+#: views/pages/settings/tab-import.php:40
+msgid "We found you have <strong>(%1$s)</strong> categories you created from <strong>WordPress Media Library Folders</strong> plugin."
+msgstr "找到 <strong>(%1$s)</strong> 个来自 <strong>WordPress Media Library Folders</strong>插件创建的文件夹."
+
+#: views/pages/settings/tab-import.php:21
+#: views/pages/settings/tab-import.php:42
+#: views/pages/settings/tab-import.php:63
+#: views/pages/settings/tab-import.php:84
+#: views/pages/settings/tab-import.php:105
+#: views/pages/settings/tab-import.php:126
+msgid " Would you like to import to <strong>FileBird</strong>?"
+msgstr "希望导入到 <strong>FileBird</strong>?"
+
+#: views/pages/settings/tab-import.php:19
+msgid "We found you have <strong>(%1$s)</strong> categories you created from <strong>Enhanced Media Library</strong> plugin."
+msgstr "找到 <strong>(%1$s)</strong> 个来自 <strong>Enhanced Media Library</strong>插件创建的文件夹."
+
+#: views/pages/settings/tab-import.php:10
+msgid "Enhanced Media Library plugin by wpUXsolutions"
+msgstr "由 wpUXsolutions 提供的媒体增强插件"
+
+#: views/pages/settings/tab-tools.php:47
+msgid "Clear"
+msgstr "清除"
+
+#: views/pages/settings/tab-tools.php:48
+msgid "This action will delete all FileBird data, FileBird settings and bring you back to WordPress default media library."
+msgstr "本操作将会删除所有 FileBird 数据, FileBird 设置 并且回到WordPress 默认媒体库."
+
+#: views/pages/settings/tab-tools.php:44
+msgid "Clear all data"
+msgstr "清除所有数据"
+
+#: views/pages/settings/tab-tools.php:6
+msgid "Import from old version"
+msgstr "从旧版本导入"
+
+#: includes/I18n.php:124
+msgid "Including Divi, Fusion, Thrive Architect, WPBakery..."
+msgstr "包括 Divi, Fusion, Thrive Architect, WPBakery..."
+
+#: includes/I18n.php:109
+msgid "Sorry to see you walk away, please share why you want to deactivate FileBird?"
+msgstr "遗憾挥别，请问您为何禁用 FileBird?"
+
+#: includes/I18n.php:108
+msgid "Want a better FileBird?"
+msgstr "帮助改进FileBird"
+
+#: includes/I18n.php:107
+msgid "Please share your thoughts..."
+msgstr "请输入您的想法"
+
+#: includes/I18n.php:106
+msgid "Please <a target=\"_blank\" href=\"https://ninjateam.org/support/\">ask for support here</a>, we will fix it for you."
+msgstr "在<a target=\"_blank\" href=\"https://ninjateam.org/support/\">此处</a>寻求帮助"
+
+#: includes/I18n.php:111
+msgid ""
+"<p>FileBird Lite version supports up to 10 folders.<br>Please upgrade to have unlimited folders and other premium features!</p>\n"
+"        <ul class=\"fbv-in_feature\">\n"
+"          <li>Unlimited Folders</li>\n"
+"          <li>Sort Files / Folders</li>\n"
+"          <li>Compatible with Premium Page Builders <span id=\"fbv-pagebuilder\" class=\"njn-i\"><svg viewBox=\"0 0 192 512\"><path fill=\"currentColor\" d=\"M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z\"></path></svg></span></li>\n"
+"          <li>Get Fast Updates</li>\n"
+"          <li>Premium Technical Support</li>\n"
+"          <li>One-time Payment</li>\n"
+"          <li>30-day Refund Guarantee</li>\n"
+"        </ul>"
+msgstr ""
+"<p>FileBird Lite 版最多支持10个文件夹.<br>要想解锁无限文件夹权限请升级到专业版</p>\n"
+"        <ul class=\"fbv-in_feature\">\n"
+"          <li>无限文件夹</li>\n"
+"          <li>文件/夹 分类</li>\n"
+"          <li>兼容高级页面编辑器 <span id=\"fbv-pagebuilder\" class=\"njn-i\"><svg viewBox=\"0 0 192 512\"><path fill=\"currentColor\" d=\"M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z\"></path></svg></span></li>\n"
+"          <li>快速更新</li>\n"
+"          <li>专业技术支持</li>\n"
+"          <li>永久授权</li>\n"
+"          <li>30日退款保证</li>\n"
+"        </ul>"
+
+#: includes/I18n.php:103
+msgid "Which features please?"
+msgstr "Which features please?"
+
+#: includes/I18n.php:100
+msgid "This is just temporary, I will use it again."
+msgstr "暂时不可用"
+
+#: includes/I18n.php:98
+msgid "Found another plugin that works better."
+msgstr "找到其他可以更适用的插件"
+
+#: includes/I18n.php:92
+msgid "Deactivate"
+msgstr "停用"
+
+#: includes/I18n.php:93
+msgid "Thank you so much!"
+msgstr "太感谢你了"
+
+#: includes/I18n.php:96
+msgid "It doesn't have the features I'm looking for."
+msgstr "它没有我正在寻找的功能。"
+
+#: includes/I18n.php:97
+msgid "Not work with my theme or other plugins."
+msgstr "不适用于我的主题或其他插件。"
+
+#: includes/I18n.php:89
+msgid "Author Ascending"
+msgstr "作者升序"
+
+#: includes/I18n.php:87
+msgid "By Author"
+msgstr "By 作者"
+
+#: includes/I18n.php:86
+msgid "Modified Descending"
+msgstr "修改降序"
+
+#: includes/I18n.php:90
+msgid "Author Descending"
+msgstr "作者降序"
+
+#: includes/I18n.php:85
+msgid "Modified Ascending"
+msgstr "修改升序"
+
+#: includes/I18n.php:78
+msgid "By Name"
+msgstr "By 名称"
+
+#: includes/I18n.php:79
+msgid "Name Ascending"
+msgstr "名称升序"
+
+#: includes/I18n.php:80
+msgid "Name Descending"
+msgstr "名称降序"
+
+#: includes/I18n.php:82
+msgid "Date Ascending"
+msgstr "日期降序"
+
+#: includes/I18n.php:83
+msgid "Date Descending"
+msgstr "日期升序"
+
+#: includes/I18n.php:84
+msgid "By Modified"
+msgstr "通过修改"
+
+#: includes/I18n.php:55
+msgid "Successfully deleted!"
+msgstr "成功删除！"
+
+#: includes/I18n.php:56
+msgid "Can't delete!"
+msgstr "不能够删除！"
+
+#: includes/I18n.php:57
+msgid "Save"
+msgstr "保存"
+
+#: includes/I18n.php:59
+msgid "Folder name..."
+msgstr "文件夹名称..."
+
+#: includes/I18n.php:81
+msgid "By Date"
+msgstr "通过日期"
+
+#: includes/I18n.php:77
+msgid "Reset"
+msgstr "重置"
+
+#: includes/I18n.php:76
+msgid "Sort Descending"
+msgstr "降序排序"
+
+#: includes/I18n.php:75
+msgid "Sort Ascending"
+msgstr "升序排序"
+
+#: includes/I18n.php:69
+msgid "Bulk Select"
+msgstr "批量选择"
+
+#: includes/I18n.php:61
+msgid "Enter folder name..."
+msgstr "输入文件夹名称"
+
+#: includes/I18n.php:62
+msgid "Are you sure you want to delete"
+msgstr "你是否确定你想要删除"
+
+#: includes/I18n.php:66
+msgid "Sort Folders"
+msgstr "排序文件夹"
+
+#: includes/I18n.php:67
+msgid "Delete Folder"
+msgstr "删除文件夹"
+
+#: includes/I18n.php:68
+msgid "Sort Files"
+msgstr "排序文件"
+
+#: includes/Controller/Api.php:115
+msgid "Invalid action"
+msgstr "无效动作"
+
+#: includes/Controller/Folder.php:580
+msgid "Can't delete folder, please try again later"
+msgstr "不能删除文件夹，请再次尝试"
+
+#: includes/Classes/EnhancedConvert.php:52
+msgid "Updated"
+msgstr "升级"
+
+#: includes/I18n.php:48
+msgid "Paste"
+msgstr "粘贴"
+
+#: includes/I18n.php:51
+msgid "Loading"
+msgstr "加载"
+
+#: includes/I18n.php:53
+msgid "Successfully moved"
+msgstr "成功移除"
+
+#: includes/I18n.php:64
+msgid "Those files will be moved to <strong>Uncategorized</strong> folder."
+msgstr "这些文件将移动到<strong>未分类</strong>文件夹。"
+
+#: includes/Classes/Convert.php:334
+msgid "success"
+msgstr "成功"
+
+#: includes/I18n.php:47
+msgid "Cut"
+msgstr "剪切"
+
+#: includes/I18n.php:45
+msgid "Ok"
+msgstr "OK"
+
+#: includes/Classes/Convert.php:372
+msgid "Please try again."
+msgstr "请再次尝试"
+
+#: includes/Classes/Convert.php:336
+msgid "validation failed"
+msgstr "验证失败"
+
+#: includes/Page/Settings.php:56
+msgid "Documentation"
+msgstr "文档"
+
+#: includes/Controller/Api.php:193 includes/Controller/Folder.php:526
+#: includes/Controller/Folder.php:595 includes/Controller/Folder.php:612
+msgid "Validation failed"
+msgstr "验证失败"
+
+#: includes/Controller/Folder.php:336 includes/Model/Folder.php:30
+msgid "All Folders"
+msgstr "所有文件夹"
+
+#. Plugin URI of the plugin
+msgid "https://ninjateam.org/wordpress-media-library-folders/"
+msgstr "https://ninjateam.org/wordpress-media-library-folders/"
+
+#: includes/Classes/Convert.php:103 includes/Classes/Convert.php:259
+msgid "We found you have %1$s categories you created from <strong>%2$s</strong> plugin. Would you like to import it to <strong>FileBird</strong>?"
+msgstr "我们发现您有 %1$s 个类别是通过 <strong>%2$s</strong> 插件创建的。您想将其导入 <strong>FileBird</strong> 吗？"
+
+#: includes/Classes/Convert.php:481 includes/Classes/Convert.php:488
+#: includes/Classes/Convert.php:495 includes/Classes/Convert.php:502
+#: includes/Classes/Convert.php:509 includes/Classes/Convert.php:516
+#: includes/Classes/EnhancedConvert.php:43
+msgid "Already Updated"
+msgstr "已经升级"
+
+#: includes/Classes/Convert.php:318
+msgid "Success"
+msgstr "成功"
+
+#: includes/Classes/Convert.php:471
+msgid "Congratulations! We imported successfully %d folders into <strong>FileBird.</strong>"
+msgstr "恭喜，我们成功导入了 %d 文件夹到 <strong>FileBird.</strong>"
+
+#: includes/Classes/Convert.php:263 includes/Classes/Review.php:84
+#: includes/I18n.php:158
+msgid "No, thanks"
+msgstr "不，谢谢"
+
+#: includes/Classes/Convert.php:256
+msgid "Import categories to FileBird"
+msgstr "将类别导入到 FileBird"
+
+#: includes/I18n.php:105
+msgid "Please read FileBird documentation <a target=\"_blank\" href=\"https://ninjateam.gitbook.io/filebird/\">here</a> or <a target=\"_blank\" href=\"https://ninjateam.org/support/\">chat with us</a> if you need help"
+msgstr "请阅读FileBird文档 <a target=\"_blank\" href=\"https://ninjateam.gitbook.io/filebird/\">这里</a> 或者 <a target=\"_blank\" href=\"https://ninjateam.org/support/\">和我们聊聊</a> 如果你需要帮助"
+
+#: includes/I18n.php:136 views/pages/html-settings.php:19
+msgid "Settings"
+msgstr "设置"
+
+#: views/pages/settings/tab-import.php:1
+msgid "Import"
+msgstr "导入"
+
+#: views/pages/settings/tab-settings.php:4
+msgid "Each user has his own folders?"
+msgstr "每个用户都有自己的文件夹？"
+
+#: includes/Classes/Review.php:83
+msgid "Later"
+msgstr "之后"
+
+#: includes/Classes/Review.php:82
+msgid "Rate now"
+msgstr "现在就评价吧"
+
+#: includes/Classes/Review.php:79
+msgid "We will be forever grateful. Thank you in advance ;)"
+msgstr "我们将永远感激不尽。先感谢您 ;）"
+
+#: views/pages/settings/tab-import.php:31
+msgid "WordPress Media Library Folders by Max Foundry"
+msgstr "Max Foundry 的 WordPress 媒体库文件夹"
+
+#: includes/Classes/Review.php:76
+msgid "Thank you for choosing FileBird. We hope you love it. Could you take a couple of seconds posting a nice review to share your happy experience?"
+msgstr "感谢您选择 FileBird。我们希望你喜欢它。你能花几秒钟时间发表一篇不错的评论来分享你的快乐经历吗？"
+
+#: includes/Classes/Review.php:74
+msgid "Give FileBird a review"
+msgstr "给 FileBird 评论"
+
+#: views/pages/settings/tab-import.php:3
+msgid "Import categories/folders from other plugins. We import virtual folders, your website will be safe, don't worry ;)"
+msgstr "从其他插件导入类别/文件夹。我们导入虚拟文件夹，您的网站将是安全的，别担心;)"
+
+#: includes/Classes/Convert.php:262 views/pages/settings/tab-import.php:15
+#: views/pages/settings/tab-import.php:36
+#: views/pages/settings/tab-import.php:57
+#: views/pages/settings/tab-import.php:78
+#: views/pages/settings/tab-import.php:99
+#: views/pages/settings/tab-import.php:120
+#: views/pages/settings/tab-import.php:169
+msgid "Import Now"
+msgstr "现在导入"
+
+#: includes/I18n.php:137 views/pages/html-settings.php:48
+msgid "FileBird Settings"
+msgstr "FileBird 设置"
+
+#: includes/Page/Settings.php:39 includes/Page/Settings.php:40
+msgid "FileBird"
+msgstr "FileBird"
+
+#: includes/I18n.php:58 blocks/filebird-gallery/dist/blocks.build.js:1
+msgid "Folder"
+msgstr "文件夹"
+
+#: includes/I18n.php:125
+msgid "Upgrade to FileBird Pro now"
+msgstr "立即升级到 FileBird Pro"
+
+#: includes/Controller/Folder.php:95
+msgid "Create your first folder for media library now."
+msgstr "创建你的第一次文件夹用于媒体库"
+
+#: includes/Controller/Folder.php:97
+msgid "Get Started"
+msgstr "开始"
+
+#: includes/I18n.php:104
+msgid "Please tell us which one"
+msgstr "请告诉我们哪一个"
+
+#: includes/I18n.php:99
+msgid "Don't know how to use it."
+msgstr "不知道怎么使用它"
+
+#: includes/I18n.php:101
+msgid "Other"
+msgstr "其他"
+
+#: includes/I18n.php:145 includes/Page/Settings.php:70
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: includes/I18n.php:95
+msgid "I've purchased FileBird Pro."
+msgstr "我已经购买了 FileBird Pro。"
+
+#. Description of the plugin
+msgid "Organize thousands of WordPress media files into folders/ categories at ease."
+msgstr "轻松地将数千个 WordPress 媒体文件组织到文件夹/类别中。"
+
+#: includes/I18n.php:46
+msgid "Cancel"
+msgstr "取消"
+
+#. Plugin Name of the plugin
+msgid "FileBird Lite"
+msgstr "FileBird Lite"
+
+#. Author of the plugin
+msgid "Ninja Team"
+msgstr "Ninja Team"
+
+#. Author URI of the plugin
+msgid "https://ninjateam.org"
+msgstr "https://ninjateam.org"
+
+#: includes/I18n.php:70
+msgid "All Files"
+msgstr "全部文件"
+
+#: includes/I18n.php:44 includes/I18n.php:60
+msgid "Folders"
+msgstr "文件夹"
+
+#: includes/Controller/Folder.php:340 includes/Controller/Folder.php:649
+#: includes/Controller/Folder.php:697 includes/I18n.php:71
+#: includes/Model/Folder.php:34 assets/dist/js/app.js:1
+msgid "Uncategorized"
+msgstr "Uncategories"
+
+#: includes/I18n.php:73
+msgid "Rename"
+msgstr "改名"
+
+#: includes/I18n.php:63
+msgid "Are you sure?"
+msgstr "你确定?"
+
+#: includes/I18n.php:43
+msgid "Delete"
+msgstr "删除"
+
+#: includes/I18n.php:42
+msgid "New Folder"
+msgstr "新文件"
+
+#: includes/I18n.php:153
+msgid "Move"
+msgstr "Move"
+
+#: includes/I18n.php:155
+msgid "items"
+msgstr "条目"
+
+#: includes/I18n.php:110
+msgid "Folder Limit Reached"
+msgstr "已达到文件夹限制"
+
+#: includes/I18n.php:154
+msgid "item"
+msgstr "条目"
+
+#: includes/I18n.php:41
+msgid "No media files found."
+msgstr "没有找到媒体文件"
