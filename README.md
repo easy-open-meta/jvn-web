@@ -1,5 +1,9 @@
 <h1 align="center">jvn-web</h1>
-[![Security Status](https://www.murphysec.com/platform3/v3/badge/1617256391153057792.svg?t=1)](https://www.murphysec.com/accept?code=09210de3ea939d2a6c1e754b38e06273&type=1&from=2&t=2
+<p align="center">
+<a href="https://www.murphysec.com/accept?code=09210de3ea939d2a6c1e754b38e06273&type=1&from=2&t=2" alt="Security Status">
+<img src="https://www.murphysec.com/platform3/v3/badge/1617256391153057792.svg?t=1" />
+</a>
+</p>
 <p align="center">
 	<a href='https://gitee.com/java-and-net/jvn-web/stargazers'><img src='https://gitee.com/java-and-net/jvn-web/badge/star.svg?theme=dark' alt='star'></img></a>
         <a href='https://gitee.com/java-and-net/jvn-web/fork'><img src='https://gitee.com/java-and-net/jvn-web/badge/fork.svg?theme=dark' alt='fork'></img></a>
